@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Tabela de Requisição vistoris Prévia! ! ! </title>
+
+</head>
+<body>
+
+    <br>
+        <br>
+            <br>
+                <br>
+
+    <table border="0" align="center" > <!-- Caso queira inserir bordas ALTERAR o numero na tag "BORDER"-->
+    
+        <tr>
+            <th><em> REQUISIÇÃO VISTORIA DE SEGURO </em></th>
+        </tr>
+        
+        <tr>
+            <td>______________________________________________________________________</td>
+        </tr>
+        <!------------------------------------------------->
+        <tr>
+            <td> Segurado :_________________________</td>
+        </tr>
+       <!------------------------------------------------->
+        <tr>
+            <td> CPF/CNPJ :_______________/_________</td>
+        </tr>
+       <!------------------------------------------------->
+        <tr>
+            <td> Número de Contato : (__)_________-___________</td>
+        </tr>
+        <!------------------------------------------------->
+        <tr>
+            <td> Corretora :_________________________</td>
+        </tr>
+        <!------------------------------------------------->
+        <tr>
+            <td> CNPJ da corretora :________________/________</td>
+        </tr>
+        <!------------------------------------------------->
+        <tr>
+            <td> Susep : _______________</td>
+        </tr>
+        <!------------------------------------------------->
+        <tr>
+            <td> Voucher :_______________</td>
+        </tr>
+        <!------------------------------------------------->
+        <tr>
+            <td> Seguradora : ___________________</td>
+        </tr>
+        <!------------------------------------------------->
+        <tr>
+            <td>______________________________________________________________________</td>
+        </tr>
+        <!------------------------------------------------->
+        <tr>            
+            <td> Obs: Seguradora Tokio Marine & Sompo Apenas Com Agendamento em Sistema!!! </td>
+        </tr>
+    </table>
+
+</body>
+</html>
